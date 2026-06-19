@@ -28,5 +28,8 @@ This is a project which include inspection of some website
        3. Button (<button>)
        4. Text input (<input>)
        5. Division Block (<div>)
-       
+  ### Form element used
+       1. Date picker:
+                <input type="date">
+          
      
