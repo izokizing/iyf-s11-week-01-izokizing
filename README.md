@@ -3,7 +3,7 @@
   <head>
           <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - About Me</title>
+  <meta title> Your Name - About Me</title>
   </head>
   <body>
     <h1>ISAAC NDEGWA MUTHOGA</h1>
