@@ -1,4 +1,4 @@
-<h1>tact me</h1>
+<h1>contact me</h1>
 <p>email: <a href="mailto:izokizing@gmail.com ">izokizing@gmail.com</a></p>
 <p>phone: +256 113088132</p>
 <form action="submit-contact" method="post">
@@ -13,6 +13,16 @@
   <option value="support">Support Request</option>
   <option value="feedback">Feedback</option>
   </select>
+</p>
+<p>
+<label for="contact-message">Message (minimum 50 words required):</label><br>
+<textarea
+  id="contact-message"
+  name="message"
+  rows="5"
+  cols="40" 
+  required aria-required="true"></textarea>
+  placeholder="Please enter your message here. Minimum 50 words required."></textarea>
 </p>
 </fieldset>
 <button type="submit">send message</button>
