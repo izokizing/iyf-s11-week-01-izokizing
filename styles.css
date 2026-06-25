@@ -11,8 +11,10 @@
 body{
   background-color: rgb(161, 233, 158);
 }
-*h1{
-  color: green;
+h1{
+   color: royalblue;
+  border: 2px solid green;
+  outline: 2px solid red;
 }
 
 
