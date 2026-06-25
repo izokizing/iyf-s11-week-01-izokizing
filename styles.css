@@ -1,20 +1,20 @@
-*{
+* {
   margin: 6px;
   padding: 5px;
   box-sizing: border-box;
 }
-*{
-  font-size: 16px;
-  font-weight: 400;
-  line-height:1.6;
+* {
+   font-size: 16px;
+   font-weight: 400;
+   line-height:1.6;
 }
-body{
-  background-color: rgb(161, 233, 158);
+body {
+   background-color: rgb(161, 233, 158);
 }
-h1{
+h1 {
    color: royalblue;
-  border: 2px solid green;
-  outline: 2px solid red;
+   border: 2px solid green;
+   outline: 2px solid red;
 }
 
 
