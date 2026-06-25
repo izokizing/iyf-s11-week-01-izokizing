@@ -1,9 +1,10 @@
 *{
-  margin: 10px;
-  padding: 10px;
+  margin: 6px;
+  padding: 5px;
   box-sizing: border-box;
 }
 *{
-  font-size: 22px;
+  font-size: 16px;
   font-weight: 400;
+  line-height:1.6;
 }
