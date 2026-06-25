@@ -1,1 +1,9 @@
-
+*{
+  margin: 30px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.p{
+  font-size: 22px;
+  font-weight: 400;
+}
