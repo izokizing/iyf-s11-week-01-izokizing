@@ -11,3 +11,9 @@
 body {
    background-color: rgb(161, 233, 158);
 }
+h1 {
+    color: rgb(225, 230, 182);
+    font-size: medium;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    text-align: center;
+}
