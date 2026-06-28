@@ -43,3 +43,9 @@ h2 {
 .card-title{
   margin-bottom: 15px;
 }
+.root{
+  --font-base: 1rem;
+  --font-4*1: 2.25rem;
+  --font-3*1: 1.75rem;
+  --font-small: 0.875rem;
+}
