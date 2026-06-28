@@ -52,8 +52,8 @@ h2 {
 .root{
   --color-primary:purple;
   --color-secondary:yellow;
-  --color-background:light-green;
-  --color-text:ruby-red;
+  --color-background:green;
+  --color-text:red;
   --color-muted:gray;
 }
 about.html-body{
