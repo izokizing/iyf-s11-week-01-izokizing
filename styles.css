@@ -49,3 +49,10 @@ h2 {
   --font-3*1: 1.75rem;
   --font-small: 0.875rem;
 }
+.root{
+  --color-primary:purple;
+  --color-secondary:yellow;
+  --color-background:light-green;
+  --color-text:ruby-red;
+  --color-muted:gray;
+}
