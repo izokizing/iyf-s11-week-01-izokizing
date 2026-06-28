@@ -70,5 +70,6 @@ footer{
   background-color: lightgray;
   padding: 20px;
   align-item: center;
+  justify-content: center;
 }
 
