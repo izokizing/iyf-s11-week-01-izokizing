@@ -31,3 +31,15 @@ h2 {
   padding: 20px;
   border: none;
 }
+.card{
+  width: 300px;
+  padding: 20px;
+  border: 1px solid gray;
+}
+.card-img{
+  width: 100%;
+  height: auto;
+}
+.card-title{
+  margin-bottom: 15px;
+}
