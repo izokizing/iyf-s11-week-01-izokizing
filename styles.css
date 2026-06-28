@@ -26,7 +26,7 @@ h2 {
     text-align: center;
     font-weight: 100;
 }
-.broken-box{
+.broken-box {
   width: 300px;
   padding: 20px;
   border: none;
@@ -36,27 +36,27 @@ h2 {
   padding: 20px;
   border: 1px solid gray;
 }
-.card-img{
+.card-img {
   width: 100%;
   height: auto;
 }
-.card-title{
+.card-title {
   margin-bottom: 15px;
 }
-.root{
+.root {
   --font-base: 1rem;
   --font-4*1: 2.25rem;
   --font-3*1: 1.75rem;
   --font-small: 0.875rem;
 }
-.root{
+.root {
   --color-primary:purple;
   --color-secondary:yellow;
   --color-background:green;
   --color-text:red;
   --color-muted:gray;
 }
-about.html-body{
+about.html-body {
   background-color: orange;
   h1{
     color: yellow;
@@ -69,6 +69,7 @@ nav{
 footer{
   background-color: lightgray;
   padding: 20px;
+  display: grid;
   justify-content: center;
 }
 
