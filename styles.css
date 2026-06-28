@@ -62,4 +62,8 @@ about.html{
     color: yellow;
   }
 }
+nav{
+  display: flex;
+  justify-content: space-between;
+}
 
