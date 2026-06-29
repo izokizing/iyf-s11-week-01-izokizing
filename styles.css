@@ -62,7 +62,7 @@ footer{
   display: grid;
   justify-content: center;
 }
-box-model-practice.html{
+.box-model-practice.html{
   body{
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
