@@ -31,18 +31,6 @@ h2 {
   padding: 20px;
   border: none;
 }
-.card{
-  width: 300px;
-  padding: 20px;
-  border: 1px solid gray;
-}
-.card-img {
-  width: 100%;
-  height: auto;
-}
-.card-title {
-  margin-bottom: 15px;
-}
 .root {
   --font-base: 1rem;
   --font-4*1: 2.25rem;
@@ -95,6 +83,18 @@ box-model-practice.html{
     background-color: lightcoral;
     padding: 20px;
     border: none;
+  }
+  .card{
+   width: 300px;
+   padding: 20px;
+   border: 1px solid gray;
+  }
+  .card-img {
+   width: 100%;
+   height: auto;
+  }
+  .card-title {
+   margin-bottom: 15px;
   }
 }
 
